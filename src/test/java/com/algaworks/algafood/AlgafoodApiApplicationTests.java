@@ -10,4 +10,5 @@ class AlgafoodApiApplicationTests {
 	void contextLoads() {
 	}
 
+
 }
